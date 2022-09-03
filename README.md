@@ -1,4 +1,4 @@
-# SpaceYaTechKe Sessions
+# SpaceYaTech Sessions
 This is the repo where you get noted information for the spaces we hold on Twitter.
 
 It is an open-souced repository where you can share information, will be reviewed and added to the documentation.
